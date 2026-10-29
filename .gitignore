@@ -1,0 +1,16 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Local environments and environment variables
+.venv/
+venv/
+.env
+
+# Operating system files
+.DS_Store
+Thumbs.db
+Desktop.ini
